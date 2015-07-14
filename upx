@@ -1,0 +1,20 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+			"name": "ShotA"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+			"name": "ShotB"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+			"name": "ShotC"
+		}
+	]
+}
