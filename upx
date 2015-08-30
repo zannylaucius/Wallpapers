@@ -3,8 +3,8 @@
 	[
 		{
 			"author": "Someone",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/9566014/5788fe9a-4ea6-11e5-9cc2-2914b8aa594d.jpg",
-			"name": "Aurora"
+			"url": "https://cloud.githubusercontent.com/assets/13327783/9566168/38e1c424-4eae-11e5-9343-5543b41132d2.jpg",
+			"name": "Ocean"
 		},
 		{
 			"author": "Someone",
@@ -35,6 +35,11 @@
 			"author": "Someone",
 			"url": "https://cloud.githubusercontent.com/assets/13327783/9566048/abebed02-4ea7-11e5-9d43-a846ec903898.jpg",
 			"name": "Nova"
+		},
+			{
+			"author": "Someone",
+			"url": "https://cloud.githubusercontent.com/assets/13327783/9566174/aff1efd0-4eae-11e5-979b-3083905063e8.jpg",
+			"name": "Clouds"
 		}
 		
 	]
