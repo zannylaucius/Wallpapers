@@ -1,24 +1,30 @@
 { 
 "wallpapers": 
 	[
-		{
+
+			{
 			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13201830/3e6883fc-d837-11e5-942b-33406ac44427.jpeg",
-			"name": "Borealis"
+			"url": "https://cloud.githubusercontent.com/assets/13327783/13724580/f93c4e36-e83e-11e5-994a-7f648c07a7b2.jpg",
+			"name": "Aurora"
 		},
-		{
+			{
+			"author": "Unsplash",
+			"url": "https://cloud.githubusercontent.com/assets/13327783/13724587/45bf619e-e83f-11e5-993c-f6e8a4e28c9b.jpg",
+			"name": "Magma"
+		},
+			{
 			"author": "Unsplash",
 			"url": "https://cloud.githubusercontent.com/assets/13327783/13201844/9635a3bc-d837-11e5-8537-98b72b3545d7.jpg",
 			"name": "Autumn"
 		},
-		{
+			{
 			"author": "Unsplash",
 			"url": "https://cloud.githubusercontent.com/assets/13327783/13201850/b65dcf52-d837-11e5-98fb-b8762ee1a3a5.jpeg",
 			"name": "Darkness"
 		},
 			{
 			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13201869/66b7ea5e-d838-11e5-9ebe-eb4248d52a1a.jpg",
+			"url": "https://cloud.githubusercontent.com/assets/13327783/13725015/5879c340-e84b-11e5-9390-5b3dda3765e8.jpg",
 			"name": "Foggy"
 		},
 			{
@@ -60,6 +66,51 @@
 			"author": "Unsplash",
 			"url": "https://cloud.githubusercontent.com/assets/13327783/13201888/4fc5295a-d839-11e5-9f6a-4bace19b0f49.jpg",
 			"name": "Waterfalls"
+		},
+			{
+			"author": "Unsplash",
+			"url": "https://cloud.githubusercontent.com/assets/13327783/13725033/b362bc6c-e84b-11e5-83c9-444ed192d37b.jpg",
+			"name": "Woods"
+		},
+			{
+			"author": "Unsplash",
+			"url": "https://cloud.githubusercontent.com/assets/13327783/13725037/c8fa9856-e84b-11e5-829f-47724e2fe9c7.jpg",
+			"name": "City"	
+		},
+			{
+			"author": "Unsplash",
+			"url": "https://cloud.githubusercontent.com/assets/13327783/13725052/f8ddcfb6-e84b-11e5-8e5f-753503bd011c.jpg",
+			"name": "Riptide"	
+		},
+			{
+			"author": "Unsplash",
+			"url": "https://cloud.githubusercontent.com/assets/13327783/13725079/951b60e6-e84c-11e5-8dba-d3be24c29c84.jpg",
+			"name": "Stars"	
+		},
+			{
+			"author": "Unsplash",
+			"url": "https://cloud.githubusercontent.com/assets/13327783/13725103/edab617a-e84c-11e5-8cfb-b90b56eb742f.jpg",
+			"name": "Coast"	
+		},
+			{
+			"author": "Unsplash",
+			"url": "https://cloud.githubusercontent.com/assets/13327783/13725107/fcd91bf6-e84c-11e5-995d-9d3d12d6a8cb.jpg",
+			"name": "Tropical"	
+		},
+			{
+			"author": "Unsplash",
+			"url": "https://cloud.githubusercontent.com/assets/13327783/13725114/31492552-e84d-11e5-9ffd-a51c0d7eab2b.jpg",
+			"name": "Forest"	
+		},
+			{
+			"author": "Unsplash",
+			"url": "https://cloud.githubusercontent.com/assets/13327783/13725116/3ed32484-e84d-11e5-928a-1020ab7c4a78.jpg",
+			"name": "Waves"	
+		},
+			{
+			"author": "Unsplash",
+			"url": "https://cloud.githubusercontent.com/assets/13327783/13725117/4ccedfec-e84d-11e5-9b44-3762258678b1.jpg",
+			"name": "Surface"	
 		}
 		
 	]
