@@ -1,128 +1,259 @@
-{ 
-"wallpapers": 
-	[
-
-			{
-			"author": "Unsplash",
-			"url": "https://app.box.com/s/utkgckn0r55k6milhzpimo20vs6ky2jd.jpg",
-			"name": "Aurora"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13724587/45bf619e-e83f-11e5-993c-f6e8a4e28c9b.jpg",
-			"name": "Magma"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13201844/9635a3bc-d837-11e5-8537-98b72b3545d7.jpg",
-			"name": "Autumn"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13201850/b65dcf52-d837-11e5-98fb-b8762ee1a3a5.jpeg",
-			"name": "Darkness"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13725015/5879c340-e84b-11e5-9390-5b3dda3765e8.jpg",
-			"name": "Foggy"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13201870/76c60d7c-d838-11e5-8e8d-7a7b10f5d4cc.jpg",
-			"name": "Lightning"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13201871/8533fb9e-d838-11e5-8c5b-fc1db71c3e1c.jpg",
-			"name": "Mountain"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13201872/9c8a1008-d838-11e5-93ce-a1468ba98f5f.jpeg",
-			"name": "Night Sky"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13201909/fc40a268-d839-11e5-8968-511be0f5113f.jpg",
-			"name": "Ocean"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13201876/aff18c8e-d838-11e5-8094-9940632280e9.jpg",
-			"name": "Roadway"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13802782/5bc0b8e8-eafc-11e5-88db-3e7c666a5624.jpeg",
-			"name": "Highlands"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13201882/f6fb86fc-d838-11e5-9717-393db02fb368.jpeg",
-			"name": "Urban"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13201888/4fc5295a-d839-11e5-9f6a-4bace19b0f49.jpg",
-			"name": "Waterfalls"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13725033/b362bc6c-e84b-11e5-83c9-444ed192d37b.jpg",
-			"name": "Woods"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13725037/c8fa9856-e84b-11e5-829f-47724e2fe9c7.jpg",
-			"name": "City"	
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13725052/f8ddcfb6-e84b-11e5-8e5f-753503bd011c.jpg",
-			"name": "Riptide"	
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13725079/951b60e6-e84c-11e5-8dba-d3be24c29c84.jpg",
-			"name": "Stars"	
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13725103/edab617a-e84c-11e5-8cfb-b90b56eb742f.jpg",
-			"name": "Coast"	
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13725107/fcd91bf6-e84c-11e5-995d-9d3d12d6a8cb.jpg",
-			"name": "Tropical"	
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13725114/31492552-e84d-11e5-9ffd-a51c0d7eab2b.jpg",
-			"name": "Forest"	
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13725116/3ed32484-e84d-11e5-928a-1020ab7c4a78.jpg",
-			"name": "Waves"	
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13201830/3e6883fc-d837-11e5-942b-33406ac44427.jpeg",
-			"name": "Borealis"	
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13725117/4ccedfec-e84d-11e5-9b44-3762258678b1.jpg",
-			"name": "Surface"
-		},
-			{
-			"author": "Unsplash",
-			"url": "https://cloud.githubusercontent.com/assets/13327783/13802810/a39ec740-eafc-11e5-9b2e-513d16a787c6.jpeg",
-			"name": "Nova"
-		}
-		
-	]
-	
+{
+  "wallpapers": [
+    {
+      "author": "John Towner",
+      "url": "https://cloud.githubusercontent.com/assets/13327783/21510976/4cccd1a2-cc4f-11e6-97de-4663e07ba29b.jpg",
+      "name": "Wall 1"
+    },
+    {
+      "author": "Artur Pokusin",
+      "url": "https://cloud.githubusercontent.com/assets/13327783/21510978/4cd1d8d2-cc4f-11e6-81ec-84f314c31e2f.jpg",
+      "name": "Wall 2"
+    },
+    {
+      "author": "Joey Kyber",
+      "url": "https://cloud.githubusercontent.com/assets/13327783/21510979/4cd2a726-cc4f-11e6-81b8-5fc353e5c344.jpg",
+      "name": "Wall 3"
+    },
+    {
+      "author": "Will Stewart",
+      "url": "https://cloud.githubusercontent.com/assets/13327783/21510977/4cd14926-cc4f-11e6-871d-b3ee12f96269.jpg",
+      "name": "Wall 4"
+    },
+    {
+      "author": "Gabriel Santiago",
+      "url": "https://cloud.githubusercontent.com/assets/13327783/21510980/4ce68a98-cc4f-11e6-8b1e-69622615ec21.jpg",
+      "name": "Wall 5"
+    },
+    {
+      "author": "Thomas Shellburg",
+      "url": "https://cloud.githubusercontent.com/assets/13327783/21510982/4cecb24c-cc4f-11e6-9224-afd6ccb69b14.jpg",
+      "name": "Wall 6"
+    },
+    {
+      "author": "Darylgio Agoncillo",
+      "url": "https://cloud.githubusercontent.com/assets/13327783/21510983/4cedb12e-cc4f-11e6-9ff5-2dad060d9c47.jpg",
+      "name": "Wall 7"
+    },
+    {
+      "author": "Igor Ksalovic",
+      "url": "https://cloud.githubusercontent.com/assets/13327783/21510981/4ceb6f5e-cc4f-11e6-9ead-d6e8afb3ff70.jpg",
+      "name": "Wall 8"
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    },
+    {
+      "author": "",
+      "url": "",
+      "name": ""
+    }
+  ]
 }
