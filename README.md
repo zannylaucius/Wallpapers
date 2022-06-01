@@ -1,5 +1,7 @@
-# Unsplash Images JSON
-Used to fetch image data for applications
+# Code
+JSON files containing image links and metadata
 
-### upx JSON
-Used for Wallpapers found in Zephyr - Icon Pack 
+# Issues
+- Upload an image into the comment section
+- Edit the comment and copy the link to the photo upload
+- Paste the link into any properly formatted JSON file
